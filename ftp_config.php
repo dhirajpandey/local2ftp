@@ -1,7 +1,7 @@
 <?php
-$ftp_host = "icslabs.in";
-$ftp_user = "icslabsi";
-$ftp_password = "Sysbqi@123";
-$local_path = "/var/www/brandanapp/baa/protected/views/dashboard/";
-$ftp_path = "/public_html/test/";
+$ftp_host = "<HOST_NAME>";
+$ftp_user = "<USER_NAME>";
+$ftp_password = "<PASSWORD>";
+$local_path = "<LOCAL_PATH>";
+$ftp_path = "<FTP_PATH>";
 ?>
