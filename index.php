@@ -1,5 +1,6 @@
 <?php
 include("ftp_config.php");
+//Check
 $con = ftp_connect($ftp_host);
 if(ftp_login($con, $ftp_user, $ftp_password)){
 	echo "connected\n";
